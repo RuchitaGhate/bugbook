@@ -45,4 +45,4 @@ $ python wsgi.py
 
 - Navigate to http://127.0.0.1:5000/
 
-# Project made and maintained by [Kumar Aditya](https://www.github.com/kumaraditya303)
+# Project made and maintained by [Ruchita Ghate](https://www.github.com/kumaraditya303)
